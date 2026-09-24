@@ -17,4 +17,4 @@ require (
 	github.com/tendermint/tm-db v0.5.1
 )
 
-replace github.com/cosmos/cosmos-sdk => github.com/p2p-org/cosmos-sdk-rootchain v0.0.0-20200601091207-a4638983ad97
+replace github.com/cosmos/cosmos-sdk => github.com/p2p-org/cosmos-sdk-rootchain v0.0.0-20260720195527-0a6847c84754
